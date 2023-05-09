@@ -1,1 +1,1 @@
-# ds_portfolio_projects
+The real-world projects that cover essential analytics tools and techniques. This practical-based learning approach helps me understand key concepts and learn how to practically apply various Analytics concepts efficiently.
