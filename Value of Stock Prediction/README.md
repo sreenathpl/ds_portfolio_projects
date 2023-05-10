@@ -12,5 +12,5 @@ Change the hyperparameters of the Neural network with regression and compare res
 Model Selection: 
 Select the best model. Model selection to be based on model RMSE.  
 
-Expected Outcome:
+Outcome:
 Low RMSE is expected while predicting the outcome using test data and and high  coefficient of determination, R^2.
